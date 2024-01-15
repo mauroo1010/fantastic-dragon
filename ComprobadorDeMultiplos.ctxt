@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ComprobadorDeMultiplos
+comment0.text=\r\n\ Clase\ que\ comprueba\ si\ un\ numoer\ es\ multiplo\ de\ otro\ \r\n\ mediante\ diversos\ metodos.\r\n\ \r\n\ @author\ Mauro\ Gutierrez\ Tormo\ \r\n\ @version\ \ \ \ \ 0.1\r\n
+comment1.params=numero
+comment1.target=boolean\ esMultiploDe2(int)
+comment2.params=numero
+comment2.target=boolean\ esMultiploDe5(int)
+comment3.params=a\ b
+comment3.target=boolean\ esMultiploDe(int,\ int)
+numComments=4
